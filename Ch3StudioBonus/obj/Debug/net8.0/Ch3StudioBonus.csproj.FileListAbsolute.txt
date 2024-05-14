@@ -1,0 +1,14 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/bin/Debug/net8.0/Ch3StudioBonus
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/bin/Debug/net8.0/Ch3StudioBonus.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/bin/Debug/net8.0/Ch3StudioBonus.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/bin/Debug/net8.0/Ch3StudioBonus.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/bin/Debug/net8.0/Ch3StudioBonus.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/refint/Ch3StudioBonus.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/Ch3StudioBonus.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch3Studio/Ch3StudioBonus/obj/Debug/net8.0/ref/Ch3StudioBonus.dll
